@@ -4,7 +4,7 @@ given phenomenon times using the Matplotlib library. The user sets configuration
 for the Frost server URL, IOT ID, total observations to read, number of plot time ticks,
 and the observation results' units.
 
-[An example CSV of the phenomenon times and observations.](query_frost_server/example_results/out.csv)
+[An example CSV of the phenomenon times and observations.](example_results/out.csv)
 
 Below is an example plot of 1,500 observations for a given IOT location: 
 
