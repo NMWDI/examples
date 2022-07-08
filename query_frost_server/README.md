@@ -8,4 +8,4 @@ and the observation results' units.
 
 Below is an example plot of 1,500 observations for a given IOT location: 
 
-![Plot](query_frost_server/example_results/Observed_Resuts_for_111129.png?raw=true "Title")
+![Plot](example_results/Observed_Resuts_for_111129.png?raw=true "Title")
