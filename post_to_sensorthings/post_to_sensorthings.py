@@ -168,7 +168,7 @@ def get_location_data():
               }
 
         x = requests.post(URL, json=obj)
-        return
+    return
 
 
 # Post observation data to Sensor Things API
